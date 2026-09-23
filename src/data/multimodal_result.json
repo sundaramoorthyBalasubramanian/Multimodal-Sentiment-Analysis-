@@ -1,0 +1,21 @@
+{
+    "speech": {
+        "text": "I am feeling happy today. My daughter called me this morning and I enjoyed talking to her.",
+        "emotion": "happy",
+        "confidence": 0.7
+    },
+    "face": {
+        "dominant_emotion": "unknown",
+        "confidence": 0.0,
+        "emotion_scores": {}
+    },
+    "fusion": {
+        "speech_weight": 0.6,
+        "face_weight": 0.4,
+        "emotion_scores": {
+            "happy": 0.42
+        },
+        "final_emotion": "happy",
+        "confidence": 1.0
+    }
+}
